@@ -225,7 +225,7 @@
         "                    rows.append({\n",
         "                        \"ref\": f\"{title} {chapter_num}:{halacha_num}\",\n",
         "                        \"section\": title.replace(\"Mishneh Torah, \", \"\"),\n",
-        "                        \"chaper\": chapter_num,\n",
+        "                        \"chapter\": chapter_num,\n",
         "                        \"number\": halacha_num,\n",
         "                        \"section_type\": \"halacha\",\n",
         "                 \"text\": text,\n",
@@ -2166,7 +2166,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNK7J2U2T1mEnYxgZTJpIam",
+      "authorship_tag": "ABX9TyNCwMGI/tiw+2AvK25fgfhb",
       "include_colab_link": true
     },
     "kernelspec": {
